@@ -1,3 +1,4 @@
+
 <u>[English](README.md)</u> | [Español](docs/es/README.md)
 | [Português](docs/pt/README.md) | [Bahasa Indonesia](docs/in/README.md)
 | [Русский](docs/ru/README.md) | [中文 (简体)](docs/zh-rCN/README.md) | [中文 (繁體)](docs/zh-rTW/README.md)
@@ -7,7 +8,7 @@
 
 # Pixels - Smart Resolution and DPI Changer
 
-* [Google Play Store](https://play.google.com/store/apps/details?id=com.tribalfs.pixels)
+* [Google Play Store](https://play.google.coREADME.mdm/store/apps/details?id=com.tribalfs.pixels)
 
 Pixels needs **WRITE_SECURE_SETTINGS** permission in order to work (this is NOT rooting).
 
